@@ -1,0 +1,10 @@
+what is the difference between dependencies and devDependencies?
+
+(build) pure project ki configuration karne hai to ts.json
+or agar src ki karni hai to tsconfig.app.json me karo
+
+what is difference between tsconfig.json and tsconfig.app.json?
+
+ what is the use of package.json , angular.json , package-lock.json and tsconfig.spec.json.
+
+

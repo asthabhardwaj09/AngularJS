@@ -1,0 +1,11 @@
+Interpolation:-
+
+1. Display Data from tS to html file.
+2. Execute js code in html file.
+3. {{}}
+
+
+how can i assure in which ts file i have to commit html then we can through template url. 
+
+
+In Angular, the templateUrl property in the @Component decorator specifies which HTML file to use as the template for a component. This means you need to commit the HTML file (e.g., my-component.component.html) to the same project as the TypeScript file (e.g., my-component.component.ts). 

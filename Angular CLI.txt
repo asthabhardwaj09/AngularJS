@@ -1,0 +1,21 @@
+Angular CLI (command line interphase).
+
+Angular CLI (command line interface) is a tool that helps developers create,build,test, and deploy angular applications.
+
+
+command which we have to learn.
+
+ng version
+ng update
+ng test
+ng generate ng build
+ng serve
+
+
+ng version this cmd run to check whether angular cli is downloaded for not.
+
+we can create a new component using ng generate component login
+
+it will be created inside the app component because app is a root component.
+
+ng help to look at all the cmd of cli.
