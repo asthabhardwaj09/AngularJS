@@ -1,0 +1,46 @@
+What is Angular?
+
+It is a single page application (no refresh on click)
+JS is a framework for web development.
+Developed by google.
+
+
+Angular Intro:-
+
+1. we need to install node for angular.
+2. Mvc architecture.
+3. Angular js and Angular are different.
+4. Current version 19.
+
+
+Why Angular?
+
+Fast loading.
+Fast development.
+Angular provide alots of features
+    1. validation library.
+    2. Routing.
+    3. component bases structure.
+    4. Large community.
+
+
+During the installation their is g because we are installing globally not for the single folder.
+
+properties and variable are two different things!!
+
+1. inside class we cannot define variable but if we create a function inside class then we can create a variable inside a function.
+And this is only called properties.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
